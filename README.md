@@ -1,4 +1,4 @@
-# tensorflow_YOLOv4
+# real-time-object-detection-YOLOv4
 A tensorflow implementation of YOLOv4, including training on VOC and real-time detection demo
 ### Environment
 
